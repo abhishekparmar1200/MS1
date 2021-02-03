@@ -1,0 +1,48 @@
+[04:04:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:04:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:04:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:04:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:04:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:04:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:04:35] [main/INFO]: Reloading ResourceManager: Default
+[04:04:36] [Worker-Main-14/INFO]: Loaded 7 recipes
+[04:04:36] [Worker-Main-14/INFO]: Loaded 927 advancements
+[04:04:38] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[04:04:38] [Server thread/INFO]: Loading properties
+[04:04:38] [Server thread/INFO]: Default game type: SURVIVAL
+[04:04:38] [Server thread/INFO]: Generating keypair
+[04:04:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:04:38] [Server thread/INFO]: Using default channel type
+[04:04:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:04:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:04:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:04:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:04:40] [Server thread/INFO]: Preparing level "world"
+[04:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:04:42] [Server thread/INFO]: Preparing spawn area: 0%
+[04:04:42] [Server thread/INFO]: Preparing spawn area: 0%
+[04:04:42] [Server thread/INFO]: Preparing spawn area: 0%
+[04:04:42] [Server thread/INFO]: Preparing spawn area: 0%
+[04:04:43] [Server thread/INFO]: Preparing spawn area: 0%
+[04:04:43] [Server thread/INFO]: Preparing spawn area: 83%
+[04:04:45] [Server thread/INFO]: Time elapsed: 4864 ms
+[04:04:45] [Server thread/INFO]: Done (4.999s)! For help, type "help"
+[04:05:36] [Server thread/INFO]: Augustx697[/127.0.0.1:55580] logged in with entity id 429 at (245.45566896204144, 79.0625, 50.17732189672424)
+[04:05:38] [Server thread/INFO]: Augustx697 joined the game
+[04:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[04:08:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/949, l='ServerLevel[mine69craft96]', x=210.22, y=67.22, z=58.80]
+[04:10:43] [Server thread/INFO]: Augustx697 burned to death
+[04:10:53] [Server thread/INFO]: Augustx697 lost connection: Disconnected
+[04:10:53] [Server thread/INFO]: Augustx697 left the game
+[04:11:03] [Server thread/INFO]: Stopping server
+[04:11:03] [Server thread/INFO]: Saving players
+[04:11:03] [Server thread/INFO]: Saving worlds
+[04:11:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[mine69craft96]'/minecraft:overworld
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:11:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[mine69craft96]'/minecraft:the_nether
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:11:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[mine69craft96]'/minecraft:the_end
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
